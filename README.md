@@ -20,15 +20,6 @@
 
 ---
 
-# 🚀 Current Projects
-
-- 🧩 **CubeAI** — AI-powered Rubik's Cube Solver
-- 🚑 **TransitCare AI** — Intelligent Healthcare Platform
-- 💰 **Price Checker System** — Student Grocery Price Comparison
-- 📝 **TickTrack** — Productivity & Habit Tracking App
-
----
-
 # 🌐 Connect With Me
 
 <div align="center">
@@ -48,11 +39,21 @@
 
 ## Languages
 
-C • C++ • Python • JavaScript • TypeScript • PHP
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ## Frontend
 
-HTML • CSS • React • Next.js • Tailwind CSS • Vue
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Backend
 
