@@ -6,10 +6,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Mohd Hamka
-
-### Software Engineer • AI Developer • Cybersecurity Enthusiast
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+🚀;Creating+software+that+solves+real+problems+💡;Exploring+Cybersecurity+and+LLMs+🔐;Always+building.+Always+learning.)](https://git.io/typing-svg)
 
 </div>
