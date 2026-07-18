@@ -125,4 +125,10 @@ MySQL • PostgreSQL • MongoDB • SQLite
 
 ⭐ Thanks for visiting my profile!
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,25:06b6d4,50:7c3aed,75:2563eb,100:0ea5e9&height=120&section=footer&text=Thanks%20for%20visiting%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
+
+</div>
+
 </div>
