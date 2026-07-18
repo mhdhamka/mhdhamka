@@ -12,10 +12,8 @@
 
 # 💫 About Me
 
-I'm a **Software Engineering student** passionate about building intelligent applications that combine **AI, cybersecurity, and modern web technologies**. I enjoy turning ideas into real-world projects that solve meaningful problems.
-
-- 🔭 Currently building **CubeAI**, **TransitCare AI**, and other full-stack applications.
-- 🤝 Open to collaborating on **AI, cybersecurity, SaaS, and open-source projects**.
+- 🔭 Working on scalable backend systems & AI integrations
+- 🤖 Deep interest on **AI, cybersecurity, SaaS, and open-source projects**.
 - 🌱 Currently learning **Deep Learning, LLM Engineering, Kubernetes, Docker, and System Design**.
 - 💬 Ask me about **PHP, JavaScript, Python, C++, APIs, MySQL, Git, and Software Engineering**.
 - ⚡ Fun fact: **I believe the best way to learn technology is by building real-world projects.**
