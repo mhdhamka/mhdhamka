@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:2563eb,50:7c3aed,75:06b6d4,100:22c55e&height=230&section=header&text=Mohammad%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%20•%20%20AI%20Developer%20%20•%20%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Mohd Hamka
 
 ### Software Engineer • AI Developer • Cybersecurity Enthusiast
@@ -74,7 +80,10 @@ MySQL • PostgreSQL • MongoDB • SQLite
 
 ## Tools
 
-Git • GitHub • Docker • Figma • VS Code
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
