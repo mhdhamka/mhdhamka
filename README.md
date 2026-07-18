@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e3a8a,50:2563eb,75:06b6d4,100:38bdf8&height=230&section=header&text=Mohd%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e3a8a,50:2563eb,75:06b6d4,100:38bdf8&height=230&section=header&text=Mohd%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20&%20•%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -19,7 +19,6 @@
 - 🔭 Working on scalable backend systems & AI integrations
 - 🤖 Deep interest on **AI, cybersecurity, SaaS, and open-source projects**.
 - 🌱 Currently learning **Deep Learning, LLM Engineering, Kubernetes, Docker, and System Design**.
-- 💬 Ask me about **PHP, JavaScript, Python, C++, APIs, MySQL, Git, and Software Engineering**.
 - ⚡ **I believe the best way to learn technology is by building real-world projects.**
 
 ---
