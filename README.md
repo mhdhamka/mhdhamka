@@ -18,7 +18,7 @@
 
 - 🔭 Working on scalable backend systems & AI integrations
 - 🤖 Deep interest on **AI, cybersecurity, SaaS, and open-source projects**.
-- 🌱 Currently learning **Deep Learning, LLM Engineering, Kubernetes, Docker, and System Design**.
+- 🌱 Currently learning **Deep Learning, LLM Engineering, and System Design**.
 - ⚡ **I believe the best way to learn technology is by building real-world projects.**
 
 ---
@@ -103,9 +103,7 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<h2 align="center">🐍 Contribution Snake</h2>
+# 🐍 Swallowing My Contributions
 
 <p align="center">
 
