@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohammad Hamka
+# 👋 Hi, I'm Mohd Hamka
 
 ### Software Engineer • AI Developer • Cybersecurity Enthusiast
 
@@ -57,7 +57,10 @@
 
 ## Backend
 
-Laravel • FastAPI • Node.js • Django • PHP
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## Database
 
@@ -65,7 +68,9 @@ MySQL • PostgreSQL • MongoDB • SQLite
 
 ## AI & Machine Learning
 
-TensorFlow • NumPy • Pandas
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## Tools
 
