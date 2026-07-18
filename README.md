@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:2563eb,50:7c3aed,75:06b6d4,100:22c55e&height=230&section=header&text=Mohammad%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%20•%20%20AI%20Developer%20%20•%20%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:2563eb,50:7c3aed,75:06b6d4,100:22c55e&height=230&section=header&text=Mohd%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%20•%20%20AI%20Developer%20%20•%20%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -83,7 +83,7 @@ MySQL • PostgreSQL • MongoDB • SQLite
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -105,9 +105,21 @@ MySQL • PostgreSQL • MongoDB • SQLite
 
 # 🐍 Contribution Snake
 
-> *(You can add this later using GitHub Actions.)*
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/output/github-contribution-grid-snake-dark.svg">
+
+</p>
 
 ---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=mhdhamka&style=for-the-badge&color=2563eb)
+
+</div>
 
 <div align="center">
 
