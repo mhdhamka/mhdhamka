@@ -20,7 +20,7 @@
 - 🤖 Deep interest on **AI, cybersecurity, SaaS, and open-source projects**.
 - 🌱 Currently learning **Deep Learning, LLM Engineering, Kubernetes, Docker, and System Design**.
 - 💬 Ask me about **PHP, JavaScript, Python, C++, APIs, MySQL, Git, and Software Engineering**.
-- ⚡ Fun fact: **I believe the best way to learn technology is by building real-world projects.**
+- ⚡ **I believe the best way to learn technology is by building real-world projects.**
 
 ---
 
