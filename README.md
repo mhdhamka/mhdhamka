@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,25:2563eb,50:7c3aed,75:06b6d4,100:22c55e&height=230&section=header&text=Mohd%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%20•%20%20AI%20Developer%20%20•%20%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e3a8a,50:2563eb,75:06b6d4,100:38bdf8&height=230&section=header&text=Mohammad%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -13,6 +13,8 @@
 ---
 
 # 💫 About Me
+
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🔭 Working on scalable backend systems & AI integrations
 - 🤖 Deep interest on **AI, cybersecurity, SaaS, and open-source projects**.
@@ -126,7 +128,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,25:06b6d4,50:7c3aed,75:2563eb,100:0ea5e9&height=120&section=footer&text=Thanks%20for%20visiting%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,25:2563eb,50:1e3a8a,75:020617,100:000000&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
