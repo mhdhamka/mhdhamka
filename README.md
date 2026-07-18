@@ -33,9 +33,9 @@ I'm a **Software Engineering student** passionate about building intelligent app
 
 # 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/mdhamka/) •
-[GitHub](https://github.com/mhdhamka) •
-[X](https://x.com/mdhamka_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhamka/)
+
+[![X](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://x.com/mdhamka_)
 
 ---
 
