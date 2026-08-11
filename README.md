@@ -133,8 +133,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=react-dark&hide_border=true" width="100%" />
 </p>
 
+# 🐍 Contribution Activity
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <i>Watch the snake eat up my GitHub contributions 🐍✨</i>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
 </p>
 
 ---
