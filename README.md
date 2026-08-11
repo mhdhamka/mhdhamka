@@ -14,7 +14,7 @@
 
 # 💫 About Me
 
-<img align="right" width="300" src="https://media.giphy.com/media/l3Ky4OW8lwO30d5q4/giphy.gif">
+<img align="right" width="300" src="https://media.giphy.com/media/Yy26RappWcZvG/giphy.gif">
 
 - 🔭 Working on scalable backend systems & AI integrations.
 - 🤖 Deep interest in **AI, cybersecurity, SaaS, and open-source projects**.
