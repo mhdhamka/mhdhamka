@@ -14,7 +14,7 @@
 
 # 💫 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/images/coding.gif">
+<img align="right" width="300" src="./assets/images/readme.gif">
 
 - 🔭 Working on scalable backend systems & AI integrations.
 - 🤖 Deep interest in **AI, cybersecurity, SaaS, and open-source projects**.
