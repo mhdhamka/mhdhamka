@@ -108,7 +108,7 @@
 # 📊 Activity & Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
 
 <p align="center">
