@@ -42,10 +42,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/mdhamka_">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&logoWidth=20" alt="X" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://mhdhamka.github.io/#github">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20" alt="Portfolio" />
   </a>
