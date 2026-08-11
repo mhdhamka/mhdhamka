@@ -145,8 +145,6 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhdhamka&style=for-the-badge&color=7aa2f7)
-
 <p>⭐ Thanks for stopping by my profile! Let's build something extraordinary together.</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020617,50:1e3a8a,75:2563eb,100:38bdf8&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
