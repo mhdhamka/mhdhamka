@@ -1,18 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,4,12,20,30&rotate=120&height=220&section=header&text=Mohd%20Hamka&fontSize=55&fontColor=38bdf8&fontAlignY=35&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=65&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e3a8a,50:2563eb,75:06b6d4,100:38bdf8&height=230&section=header&text=Mohd%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
-
-<br>
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications+🚀;Creating+scalable+software+that+solves+real+problems+💡;Exploring+Cybersecurity+and+Advanced+LLMs+🔐;Always+building.+Always+learning.+⚡" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+🚀;Creating+software+that+solves+real+problems+💡;Exploring+Cybersecurity+and+LLMs+🔐;Always+building.+Always+learning.)](https://git.io/typing-svg)
 
 </div>
-
-<br>
 
 ---
 
