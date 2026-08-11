@@ -14,12 +14,21 @@
 
 # 💫 About Me
 
-<img align="right" width="300" src="./assets/images/readme.gif">
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="65%" valign="middle">
 
 - 🔭 **Current Focus:** Scalable backend architectures & intelligent AI integrations.
 - 🤖 **Core Passions:** Artificial Intelligence, Cybersecurity, SaaS, and Open-Source ecosystems.
 - 🌱 **Continuous Growth:** Deepening expertise in Deep Learning, LLM Engineering, and Advanced System Design.
 - ⚡ **Philosophy:** *The ultimate way to master technology is by building real-world solutions.*
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="./assets/images/readme.gif" width="220" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
