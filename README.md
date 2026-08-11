@@ -119,7 +119,7 @@
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/mhdhamka/count.svg?color=7aa2f7" alt="Visitor Count" />
+<img src="https://komarev.com/ghpvc/?username=mhdhamka&label=Profile%20Views&color=7aa2f7&style=flat" alt="Visitor Count" />
 
 <br><br>
 
