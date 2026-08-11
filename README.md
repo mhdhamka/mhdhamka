@@ -14,12 +14,12 @@
 
 # 💫 About Me
 
-<img align="right" width="300" src="./assets/images/readme.gif">
+<img align="right" width="300" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/images/coding.gif">
 
-- 🔭 Working on scalable backend systems & AI integrations.
-- 🤖 Deep interest in **AI, cybersecurity, SaaS, and open-source projects**.
-- 🌱 Currently learning **Deep Learning, LLM Engineering, and System Design**.
-- ⚡ **I believe the best way to learn technology is by building real-world projects.**
+- 🔭 **Current Focus:** Scalable backend architectures & intelligent AI integrations.
+- 🤖 **Core Passions:** Artificial Intelligence, Cybersecurity, SaaS, and Open-Source ecosystems.
+- 🌱 **Continuous Growth:** Deepening expertise in Deep Learning, LLM Engineering, and Advanced System Design.
+- ⚡ **Philosophy:** *The ultimate way to master technology is by building real-world solutions.*
 
 ---
 
@@ -29,6 +29,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdhamka/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhdhamka)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mdhamka_)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mhdhamka.github.io/#github)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/mhdhamka/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.hamka017@gmail.com)
@@ -82,27 +83,31 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-# 📈 GitHub Stats
+---
+
+# 📈 GitHub Metrics & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mhdhamka&theme=dark&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=mhdhamka&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api?username=mhdhamka&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=mhdhamka&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhdhamka&layout=compact&theme=dark" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhdhamka&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 📊 Contribution & Activity
+# 📊 Activity & Contribution Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=github-compact" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
@@ -113,10 +118,10 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhdhamka&style=for-the-badge&color=2563eb)
+![Profile Views](https://komarev.com/ghpvc/?username=mhdhamka&style=for-the-badge&color=7aa2f7)
 
-<p>⭐ Thanks for visiting my profile!</p>
+<p>⭐ Thanks for stopping by my profile! Let's build something extraordinary together.</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,25:2563eb,50:1e3a8a,75:020617,100:000000&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020617,50:1e3a8a,75:2563eb,100:38bdf8&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
