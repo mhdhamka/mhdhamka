@@ -28,7 +28,7 @@
 
 ## `> whoami`
 
-I'm a **Software Engineering student and builder** focused on turning ideas into practical software systems.
+I'm a **Software Developer** focused on turning ideas into practical software systems.
 
 My interests sit across several layers of modern engineering:
 
