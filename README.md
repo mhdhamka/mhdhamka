@@ -25,88 +25,291 @@
 </div>
 
 ---
-
 ## `> whoami`
 
-I'm a **Software Developer** focused on turning ideas into practical software systems.
+<div align="center">
 
-My interests sit across several layers of modern engineering:
+<table width="100%" border="0">
+<tr>
+<td width="62%" valign="middle">
+
+### Hey, I'm **Mohd Hamka**
+
+**Software Developer** building practical systems across **AI, software engineering, cybersecurity, and infrastructure**.
+
+I'm interested in taking an idea from:
 
 ```text
-AI / LLMs
-    ↓
-Intelligent Applications
-    ↓
-Backend & Distributed Systems
-    ↓
-Cloud / DevOps / Infrastructure
-    ↓
-Cybersecurity & Security Engineering
+Idea
+ ↓
+Architecture
+ ↓
+Implementation
+ ↓
+Integration
+ ↓
+Deployment
+ ↓
+Real-world System
 ```
 
-I enjoy building systems that are more than demos — applications with real users, real data, meaningful workflows, and room to evolve.
+I enjoy building software that goes beyond prototypes — systems with **real workflows, real data, meaningful architecture, and room to scale.**
+
+<br>
 
 > **Build → Break → Learn → Improve → Repeat.**
 
----
-
-## Current Focus
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI Engineering
-
-* LLM-powered applications
-* AI agents & copilots
-* RAG systems
-* AI-assisted developer tools
-* Machine learning pipelines
-* Intelligent automation
-
 </td>
-<td width="50%" valign="top">
 
-### 🛡️ Cybersecurity
+<td width="38%" align="center" valign="middle">
 
-* Security operations
-* SOC tooling
-* Threat detection
-* SIEM & security analytics
-* Threat intelligence
-* Security automation
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Software Engineering
-
-* Full-stack applications
-* API architecture
-* Backend systems
-* Database design
-* Distributed services
-* System architecture
-
-</td>
-<td width="50%" valign="top">
-
-### ☁️ Infrastructure
-
-* Docker & containerization
-* CI/CD
-* Linux
-* Cloud architecture
-* Reverse proxies
-* Infrastructure automation
+<img src="./assets/images/readme.gif" width="280" alt="Coding Animation">
 
 </td>
 </tr>
 </table>
+
+</div>
+
+---
+
+### `~/profile`
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td>
+
+```yaml
+name: Mohd Hamka
+role: Software Developer
+
+focus:
+  - Artificial Intelligence
+  - Software Engineering
+  - Cybersecurity
+  - Cloud & Infrastructure
+
+building:
+  - AI-powered applications
+  - Security platforms
+  - Data-driven systems
+  - Full-stack products
+
+mindset:
+  - Build real systems
+  - Understand the fundamentals
+  - Automate repetitive work
+  - Keep learning
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Engineering Focus
+
+<div align="center">
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<details open>
+<summary><strong>AI Engineering</strong></summary>
+
+<br>
+
+Building intelligent applications rather than AI for the sake of AI.
+
+* LLM-powered applications
+* AI agents & copilots
+* Retrieval-Augmented Generation
+* AI-assisted developer tools
+* Machine learning pipelines
+* Intelligent automation
+* AI system integration
+* Data-driven decision systems
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+<details open>
+<summary><strong>Cybersecurity Engineering</strong></summary>
+
+<br>
+
+Exploring the intersection between software engineering and defensive security.
+
+* Security Operations
+* SOC tooling
+* SIEM & security analytics
+* Threat detection
+* Threat intelligence
+* Incident investigation
+* Security automation
+* AI-assisted security operations
+
+</details>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<details open>
+<summary><strong>Software Engineering</strong></summary>
+
+<br>
+
+Designing applications with maintainability, scalability and architecture in mind.
+
+* Full-stack applications
+* RESTful APIs
+* Backend architecture
+* Database design
+* Authentication & authorization
+* Distributed services
+* System architecture
+* Developer tooling
+
+</details>
+
+</td>
+
+<td width="50%" valign="top">
+
+<details open>
+<summary><strong>Infrastructure & DevOps</strong></summary>
+
+<br>
+
+Learning how applications move from local development to reliable production systems.
+
+* Docker & containerization
+* CI/CD pipelines
+* Linux
+* Cloud architecture
+* Reverse proxies
+* Infrastructure automation
+* Service orchestration
+* Deployment architecture
+
+</details>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## Engineering Approach
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center">
+
+### 01
+
+**Understand**
+
+Understand the problem before choosing the technology.
+
+</td>
+
+<td align="center">
+
+### 02
+
+**Design**
+
+Think about architecture, data and system boundaries.
+
+</td>
+
+<td align="center">
+
+### 03
+
+**Build**
+
+Turn the design into something functional.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 04
+
+**Test**
+
+Break it, investigate it and find the weak points.
+
+</td>
+
+<td align="center">
+
+### 05
+
+**Improve**
+
+Refactor, automate and make the system better.
+
+</td>
+
+<td align="center">
+
+### 06
+
+**Ship**
+
+Deploy it and learn from the real world.
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+## What I'm Exploring
+
+<div align="center">
+
+`AI Systems` · `LLM Engineering` · `Cybersecurity` · `SOC Automation`
+
+`Backend Architecture` · `Distributed Systems` · `Cloud Infrastructure` · `Data Platforms`
+
+<br><br>
+
+**The goal isn't to use the newest technology.**
+
+### It's to build something worth using.
+
+</div>
 
 ---
 
