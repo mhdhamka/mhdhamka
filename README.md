@@ -77,32 +77,100 @@ I enjoy building software that goes beyond prototypes — systems with **real wo
 
 <div align="center">
 
-<table width="90%">
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
 
-```yaml
-name: Mohd Hamka
-role: Software Developer
+<table width="100%">
+<tr>
 
-focus:
-  - Artificial Intelligence
-  - Software Engineering
-  - Cybersecurity
-  - Cloud & Infrastructure
+<td width="33%" valign="top">
 
-building:
-  - AI-powered applications
-  - Security platforms
-  - Data-driven systems
-  - Full-stack products
+```text
+IDENTITY
+────────────────────────────
 
-mindset:
-  - Build real systems
-  - Understand the fundamentals
-  - Automate repetitive work
-  - Keep learning
+name
+Mohd Hamka
+
+role
+Software Developer
+
+status
+Building
 ```
+
+</td>
+
+<td width="33%" valign="top">
+
+```text
+FOCUS
+────────────────────────────
+
+Artificial Intelligence
+Software Engineering
+Cybersecurity
+Cloud & Infrastructure
+```
+
+</td>
+
+<td width="33%" valign="top">
+
+```text
+BUILDING
+────────────────────────────
+
+AI Applications
+Security Platforms
+Data Systems
+Full-Stack Products
+```
+
+</td>
+
+</tr>
+</table>
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+```text
+MINDSET
+────────────────────────────────────
+
+> Build real systems
+> Understand the fundamentals
+> Automate repetitive work
+> Keep learning
+```
+
+</td>
+
+<td width="50%" valign="top">
+
+```text
+ENGINEERING STACK
+────────────────────────────────────
+
+AI / LLMs
+        ↓
+Applications
+        ↓
+Backend Systems
+        ↓
+Infrastructure
+        ↓
+Security
+```
+
+</td>
+
+</tr>
+</table>
 
 </td>
 </tr>
