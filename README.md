@@ -218,83 +218,6 @@ Learning how applications move from local development to reliable production sys
 
 ---
 
-## `~/workflow`
-
-<div align="center">
-
-<table width="90%">
-<tr>
-<td align="center">
-
-### 01
-
-**Understand**
-
-Understand the problem before choosing the technology.
-
-</td>
-
-<td align="center">
-
-### 02
-
-**Design**
-
-Think about architecture, data and system boundaries.
-
-</td>
-
-<td align="center">
-
-### 03
-
-**Build**
-
-Turn the design into something functional.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 04
-
-**Test**
-
-Break it, investigate it and find the weak points.
-
-</td>
-
-<td align="center">
-
-### 05
-
-**Improve**
-
-Refactor, automate and make the system better.
-
-</td>
-
-<td align="center">
-
-### 06
-
-**Ship**
-
-Deploy it and learn from the real world.
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
 ## What I'm Exploring
 
 <div align="center">
@@ -376,6 +299,82 @@ Deploy it and learn from the real world.
 
 </div>
 
+---
+
+## `~/workflow`
+
+<div align="center">
+
+<table width="90%">
+<tr>
+<td align="center">
+
+### 01
+
+**Understand**
+
+Understand the problem before choosing the technology.
+
+</td>
+
+<td align="center">
+
+### 02
+
+**Design**
+
+Think about architecture, data and system boundaries.
+
+</td>
+
+<td align="center">
+
+### 03
+
+**Build**
+
+Turn the design into something functional.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+### 04
+
+**Test**
+
+Break it, investigate it and find the weak points.
+
+</td>
+
+<td align="center">
+
+### 05
+
+**Improve**
+
+Refactor, automate and make the system better.
+
+</td>
+
+<td align="center">
+
+### 06
+
+**Ship**
+
+Deploy it and learn from the real world.
+
+</td>
+
+</tr>
+</table>
+
+</div>
 ---
 
 ## Engineering Interests
