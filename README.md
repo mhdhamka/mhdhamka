@@ -72,46 +72,6 @@ I enjoy building software that goes beyond prototypes — systems with **real wo
 </div>
 
 ---
-
-### `~/profile`
-
-<div align="center">
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-```yaml
-name: Mohd Hamka
-role: Software Developer
-
-focus:
-  - Artificial Intelligence
-  - Software Engineering
-  - Cybersecurity
-  - Cloud & Infrastructure
-
-building:
-  - AI-powered applications
-  - Security platforms
-  - Data-driven systems
-  - Full-stack products
-
-mindset:
-  - Build real systems
-  - Understand the fundamentals
-  - Automate repetitive work
-  - Keep learning
-                                                                
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 ## `~/focus`
 
 <div align="center">
