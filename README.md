@@ -33,7 +33,7 @@
 <tr>
 <td width="62%" valign="middle">
 
-### Hey, I'm **Mohd Hamka**
+### Hey, I'm **mhdhamka**
 
 **Software Developer** building practical systems across **AI, software engineering, cybersecurity, and infrastructure**.
 
