@@ -199,7 +199,9 @@ Local dev to reliable production systems.
 </table>
 
 </div>
+
 ---
+
 ## `~/stack`
 
 <div align="center">
