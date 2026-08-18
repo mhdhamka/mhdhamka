@@ -1,156 +1,277 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e3a8a,50:2563eb,75:06b6d4,100:38bdf8&height=230&section=header&text=Mohd%20Hamka&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0f172a,65:1d4ed8,100:06b6d4&height=220&section=header&text=Mohd%20Hamka&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
-</div>
+### `~/mhdhamka`
 
-<div align="center">
+**Building software at the intersection of AI, systems, and cybersecurity.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications+🚀;Creating+software+that+solves+real+problems+💡;Exploring+Cybersecurity+and+LLMs+🔐;Always+building.+Always+learning.)](https://git.io/typing-svg)
+<a href="https://mhdhamka.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=google-chrome&logoColor=38bdf8" />
+</a>
+<a href="https://github.com/mhdhamka">
+  <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" />
+</a>
+<a href="https://www.linkedin.com/in/mdhamka/">
+  <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0a66c2" />
+</a>
+<a href="https://leetcode.com/u/mhdhamka/">
+  <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=ffa116" />
+</a>
+<a href="mailto:m.hamka017@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=ea4335" />
+</a>
 
 </div>
 
 ---
 
-# 💫 About Me
+## `> whoami`
 
-<table align="center" border="0" width="100%">
-  <tr>
-    <td width="65%" valign="middle">
+I'm a **Software Engineering student and builder** focused on turning ideas into practical software systems.
 
-- 🔭 **Current Focus:** Scalable backend architectures & intelligent AI integrations.
-- 🤖 **Core Passions:** Artificial Intelligence, Cybersecurity, SaaS, and Open-Source ecosystems.
-- 🌱 **Continuous Growth:** Deepening expertise in Deep Learning, LLM Engineering, and Advanced System Design.
-- ⚡ **Philosophy:** *The ultimate way to master technology is by building real-world solutions.*
+My interests sit across several layers of modern engineering:
 
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="./assets/images/readme.gif" width="220" alt="Coding GIF">
-    </td>
-  </tr>
+```text
+AI / LLMs
+    ↓
+Intelligent Applications
+    ↓
+Backend & Distributed Systems
+    ↓
+Cloud / DevOps / Infrastructure
+    ↓
+Cybersecurity & Security Engineering
+```
+
+I enjoy building systems that are more than demos — applications with real users, real data, meaningful workflows, and room to evolve.
+
+> **Build → Break → Learn → Improve → Repeat.**
+
+---
+
+## Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 AI Engineering
+
+* LLM-powered applications
+* AI agents & copilots
+* RAG systems
+* AI-assisted developer tools
+* Machine learning pipelines
+* Intelligent automation
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Cybersecurity
+
+* Security operations
+* SOC tooling
+* Threat detection
+* SIEM & security analytics
+* Threat intelligence
+* Security automation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Software Engineering
+
+* Full-stack applications
+* API architecture
+* Backend systems
+* Database design
+* Distributed services
+* System architecture
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Infrastructure
+
+* Docker & containerization
+* CI/CD
+* Linux
+* Cloud architecture
+* Reverse proxies
+* Infrastructure automation
+
+</td>
+</tr>
 </table>
 
 ---
-# 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mdhamka/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mhdhamka">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://mhdhamka.github.io/#github">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white&logoWidth=20" alt="Portfolio" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/mhdhamka/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&logoWidth=20" alt="LeetCode" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:m.hamka017@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20" alt="Email" />
-  </a>
+## What I'm Building
+
+Rather than maintaining dozens of small experiments, I'm increasingly interested in **larger systems composed of multiple services, data pipelines, AI components, and user-facing applications.**
+
+Some areas I'm exploring:
+
+| Area                          | Direction                                                                |
+| ----------------------------- | ------------------------------------------------------------------------ |
+| 🗳️ **Election Intelligence** | Data-driven platforms for Malaysian election intelligence and analysis   |
+| 🛡️ **AI SOC**                | AI-assisted security investigation, threat hunting and incident analysis |
+| 💼 **AI Job Intelligence**    | Intelligent job discovery, matching and career analysis                  |
+| 🛒 **Price Intelligence**     | Price comparison and AI-assisted consumer intelligence                   |
+| 🚇 **Transit Intelligence**   | Intelligent transportation and public-service systems                    |
+| 📊 **Data Platforms**         | Real-time analytics, dashboards and decision-support systems             |
+
+---
+
+## Technology
+
+### Languages
+
+<p>
+<img src="https://img.shields.io/badge/C-0f172a?style=flat-square&logo=c&logoColor=A8B9CC" />
+<img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=flat-square&logo=cplusplus&logoColor=00599C" />
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/PHP-0f172a?style=flat-square&logo=php&logoColor=777BB4" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Vue.js-0f172a?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
+<img src="https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+<img src="https://img.shields.io/badge/Vite-0f172a?style=flat-square&logo=vite&logoColor=646CFF" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=339933" />
+<img src="https://img.shields.io/badge/Express-0f172a?style=flat-square&logo=express&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=009688" />
+<img src="https://img.shields.io/badge/Django-0f172a?style=flat-square&logo=django&logoColor=44B78B" />
+<img src="https://img.shields.io/badge/Laravel-0f172a?style=flat-square&logo=laravel&logoColor=FF2D20" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-0f172a?style=flat-square&logo=dotnet&logoColor=512BD4" />
+</p>
+
+### AI / Data
+
+<p>
+<img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=FF6F00" />
+<img src="https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=EE4C2C" />
+<img src="https://img.shields.io/badge/Pandas-0f172a?style=flat-square&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=013243" />
+</p>
+
+### Data & Storage
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MySQL-0f172a?style=flat-square&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/MongoDB-0f172a?style=flat-square&logo=mongodb&logoColor=47A248" />
+<img src="https://img.shields.io/badge/SQLite-0f172a?style=flat-square&logo=sqlite&logoColor=003B57" />
+<img src="https://img.shields.io/badge/Prisma-0f172a?style=flat-square&logo=prisma&logoColor=ffffff" />
+</p>
+
+### DevOps & Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Git-0f172a?style=flat-square&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ED" />
+<img src="https://img.shields.io/badge/Linux-0f172a?style=flat-square&logo=linux&logoColor=FCC624" />
+<img src="https://img.shields.io/badge/Nginx-0f172a?style=flat-square&logo=nginx&logoColor=009639" />
+<img src="https://img.shields.io/badge/Postman-0f172a?style=flat-square&logo=postman&logoColor=FF6C37" />
 </p>
 
 ---
 
-# 💻 Interactive Tech Stack
-<p align="center"><i>Explore my primary toolset. Hover or click any badge to inspect documentation & ecosystems!</i></p>
+## Engineering Interests
 
+```text
+┌──────────────────────────────────────────────────────────┐
+│                    SOFTWARE ENGINEERING                   │
+├───────────────────────┬──────────────────────────────────┤
+│ AI / LLM Engineering  │ Backend Architecture             │
+│                       │                                  │
+│ • LLM Applications    │ • REST APIs                      │
+│ • RAG                 │ • Microservices                  │
+│ • AI Agents           │ • Authentication                 │
+│ • AI Copilots         │ • Data Architecture              │
+├───────────────────────┼──────────────────────────────────┤
+│ Cybersecurity         │ Infrastructure                   │
+│                       │                                  │
+│ • SOC                  │ • Docker                         │
+│ • SIEM                 │ • CI/CD                          │
+│ • Threat Detection     │ • Linux                          │
+│ • Threat Intelligence  │ • Cloud                          │
+└───────────────────────┴──────────────────────────────────┘
+```
+
+---
+
+## GitHub Analytics
 
 <div align="center">
 
-### ⚡ Languages
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
+<img src="https://github-readme-stats.shion.dev/api?username=mhdhamka&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
 
-### 🎨 Frontend Architecture
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></a>
-<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" /></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
-<a href="https://zustand-demo.pmnd.rs/"><img src="https://img.shields.io/badge/Zustand-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" /></a>
+<img src="https://streak-stats.demolab.com/?user=mhdhamka&theme=tokyonight&hide_border=true" width="49%" />
 
-### ⚙️ Backend Systems
-<a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" /></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></a>
-<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /></a>
-<a href="https://dotnet.microsoft.com/en-us/apps/aspnet"><img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" /></a>
+<br/>
 
-### 🗄️ Database & Storage
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
-<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
-<a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" /></a>
-
-### 🧠 AI & Machine Learning
-<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></a>
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-
-### 🛠️ Tools & DevOps
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
-<a href="https://www.nginx.com/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhdhamka&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
 </div>
 
 ---
 
-# 📈 GitHub Metrics & Analytics
+## Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=mhdhamka&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=mhdhamka&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhdhamka&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=react-dark&hide_border=true&area=true" width="100%" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake" />
+
+</div>
 
 ---
 
-# 📊 Activity & Contribution Matrix
+## Let's Connect
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=react-dark&hide_border=true" width="100%" />
-</p>
+<div align="center">
 
-# 🐍 Contribution Activity
+**Interested in AI, cybersecurity, software engineering, or building something interesting?**
 
-<p align="center">
-  <i>Watch the snake eat up my GitHub contributions ✨</i>
-</p>
+Let's connect.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="90%" />
-</p>
+<br/>
+
+<a href="https://mhdhamka.github.io">
+  <img src="https://img.shields.io/badge/Explore%20My%20Portfolio-2563eb?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=mhdhamka&label=Profile%20Views&color=38bdf8&style=flat" />
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=mhdhamka&label=Profile%20Views&color=7aa2f7&style=flat" alt="Visitor Count" />
-
-<br><br>
-
-<p>⭐ Thanks for stopping by my profile! Let's build something extraordinary together.</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:020617,50:1e3a8a,75:2563eb,100:38bdf8&height=120&section=footer&text=Keep%20Building%20🚀&fontSize=25&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,60:1e3a8a,100:06b6d4&height=120&section=footer&text=Build%20Something%20Worth%20Remembering.&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
