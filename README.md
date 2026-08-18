@@ -133,7 +133,7 @@
 # 🐍 Contribution Activity
 
 <p align="center">
-  <i>Watch the snake eat up my GitHub contributions 🐍✨</i>
+  <i>Watch the snake eat up my GitHub contributions ✨</i>
 </p>
 
 <p align="center">
