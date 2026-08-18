@@ -312,7 +312,7 @@ Deploy it and learn from the real world.
 </div>
 
 ---
-~/stack
+## `~/stack`
 
 <div align="center">
 
