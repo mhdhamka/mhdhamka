@@ -361,7 +361,7 @@ Deploy it and learn from the real world.
 
 ---
 
-## GitHub Analytics
+## `~/github`
 
 <div align="center">
 
@@ -391,7 +391,7 @@ Deploy it and learn from the real world.
 
 ---
 
-## Let's Connect
+## `~/connect`
 
 <div align="center">
 
