@@ -112,7 +112,6 @@ mindset:
 </div>
 
 ---
-
 ## `~/focus`
 
 <div align="center">
@@ -127,16 +126,12 @@ mindset:
 
 <br>
 
-Building intelligent applications rather than AI for the sake of AI.
+Building intelligent, practical applications.
 
-* LLM-powered applications
-* AI agents & copilots
-* Retrieval-Augmented Generation
-* AI-assisted developer tools
-* Machine learning pipelines
-* Intelligent automation
-* AI system integration
-* Data-driven decision systems
+* LLM apps & AI agents / copilots
+* RAG & AI-assisted dev tools
+* ML pipelines & automation
+* System integration & decision systems
 
 </details>
 
@@ -149,16 +144,12 @@ Building intelligent applications rather than AI for the sake of AI.
 
 <br>
 
-Exploring the intersection between software engineering and defensive security.
+Intersection of software and defensive security.
 
-* Security Operations
-* SOC tooling
+* Security Operations & SOC tooling
 * SIEM & security analytics
-* Threat detection
-* Threat intelligence
-* Incident investigation
-* Security automation
-* AI-assisted security operations
+* Threat detection & intelligence
+* Incident investigation & automation
 
 </details>
 
@@ -175,15 +166,11 @@ Exploring the intersection between software engineering and defensive security.
 
 <br>
 
-Designing applications with maintainability, scalability and architecture in mind.
+Maintainable and scalable architecture.
 
-* Full-stack applications
-* RESTful APIs
-* Backend architecture
-* Database design
-* Authentication & authorization
-* Distributed services
-* System architecture
+* Full-stack apps & REST APIs
+* Backend architecture & database design
+* Auth, distributed services & system design
 * Developer tooling
 
 </details>
@@ -197,16 +184,12 @@ Designing applications with maintainability, scalability and architecture in min
 
 <br>
 
-Learning how applications move from local development to reliable production systems.
+Local dev to reliable production systems.
 
 * Docker & containerization
-* CI/CD pipelines
-* Linux
-* Cloud architecture
-* Reverse proxies
-* Infrastructure automation
-* Service orchestration
-* Deployment architecture
+* CI/CD pipelines & Linux
+* Cloud architecture & reverse proxies
+* Infrastructure automation & deployment
 
 </details>
 
@@ -216,7 +199,6 @@ Learning how applications move from local development to reliable production sys
 </table>
 
 </div>
-
 ---
 ## `~/stack`
 
