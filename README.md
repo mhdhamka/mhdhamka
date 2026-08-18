@@ -312,82 +312,67 @@ Deploy it and learn from the real world.
 </div>
 
 ---
+~/stack
 
 <div align="center">
 
-## Interactive Tech Stack
+<details open> <summary><strong>LANGUAGES</strong></summary>
 
-### Languages
+<br>
 
-<p>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC" /></a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" /></a>
-<a href="https://www.php.net/"><img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4" /></a>
-</p>
+<img src="https://img.shields.io/badge/C-0f172a?style=for-the-badge&logo=c&logoColor=A8B9CC"/> <img src="https://img.shields.io/badge/C%2B%2B-0f172a?style=for-the-badge&logo=cplusplus&logoColor=00599C"/> <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6"/> <img src="https://img.shields.io/badge/PHP-0f172a?style=for-the-badge&logo=php&logoColor=777BB4"/>
 
----
+</details>
 
-### Frontend
+<br>
 
-<p>
-<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-<a href="https://nextjs.org/"><img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" /></a>
-<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
-<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" /></a>
-<a href="https://vitejs.dev/"><img src="https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=646CFF" /></a>
-</p>
+<details> <summary><strong>FRONTEND</strong></summary>
 
----
+<br>
 
-### Backend & APIs
+<img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Vue.js-0f172a?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/Tailwind_CSS-0f172a?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/> <img src="https://img.shields.io/badge/Vite-0f172a?style=for-the-badge&logo=vite&logoColor=646CFF"/>
 
-<p>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933" /></a>
-<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff" /></a>
-<a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688" /></a>
-<a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=44B78B" /></a>
-<a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20" /></a>
-<a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/ASP.NET_Core-0f172a?style=for-the-badge&logo=dotnet&logoColor=512BD4" /></a>
-</p>
+</details>
 
----
+<br>
 
-### AI & Data
+<details> <summary><strong>BACKEND & APIs</strong></summary>
 
-<p>
-<a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00" /></a>
-<a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C" /></a>
-<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=150458" /></a>
-<a href="https://numpy.org/"><img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=013243" /></a>
-</p>
+<br>
 
----
+<img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=nodedotjs&logoColor=339933"/> <img src="https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff"/> <img src="https://img.shields.io/badge/FastAPI-0f172a?style=for-the-badge&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/Django-0f172a?style=for-the-badge&logo=django&logoColor=44B78B"/> <img src="https://img.shields.io/badge/Laravel-0f172a?style=for-the-badge&logo=laravel&logoColor=FF2D20"/> <img src="https://img.shields.io/badge/ASP.NET_Core-0f172a?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
 
-### Databases & Storage
+</details>
 
-<p>
-<a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1" /></a>
-<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1" /></a>
-<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248" /></a>
-<a href="https://www.sqlite.org/"><img src="https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=003B57" /></a>
-<a href="https://www.prisma.io/"><img src="https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=ffffff" /></a>
-</p>
+<br>
 
----
+<details> <summary><strong>AI & DATA</strong></summary>
 
-### DevOps & Engineering
+<br>
 
-<p>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032" /></a>
-<a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" /></a>
-<a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED" /></a>
-<a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624" /></a>
-<a href="https://nginx.org/"><img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639" /></a>
-<a href="https://www.postman.com/"><img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37" /></a>
-</p>
+<img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/> <img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=150458"/> <img src="https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=013243"/>
+
+</details>
+
+<br>
+
+<details> <summary><strong>DATABASES</strong></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=for-the-badge&logo=postgresql&logoColor=4169E1"/> <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/SQLite-0f172a?style=for-the-badge&logo=sqlite&logoColor=003B57"/> <img src="https://img.shields.io/badge/Prisma-0f172a?style=for-the-badge&logo=prisma&logoColor=ffffff"/>
+
+</details>
+
+<br>
+
+<details> <summary><strong>DEVOPS & TOOLING</strong></summary>
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032"/> <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=ffffff"/> <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED"/> <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=FCC624"/> <img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=009639"/> <img src="https://img.shields.io/badge/Postman-0f172a?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+
+</details>
 
 </div>
 
