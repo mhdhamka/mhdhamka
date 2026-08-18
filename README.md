@@ -218,24 +218,6 @@ Learning how applications move from local development to reliable production sys
 </div>
 
 ---
-
-## What I'm Exploring
-
-<div align="center">
-
-`AI Systems` · `LLM Engineering` · `Cybersecurity` · `SOC Automation`
-
-`Backend Architecture` · `Distributed Systems` · `Cloud Infrastructure` · `Data Platforms`
-
-<br><br>
-
-**The goal isn't to use the newest technology.**
-
-### It's to build something worth using.
-
-</div>
-
----
 ## `~/stack`
 
 <div align="center">
