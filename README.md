@@ -109,9 +109,10 @@ I enjoy building systems that are more than demos — applications with real use
 </table>
 
 ---
-## Technology
 
 <div align="center">
+
+## Interactive Tech Stack
 
 ### Languages
 
