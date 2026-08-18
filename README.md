@@ -113,7 +113,7 @@ mindset:
 
 ---
 
-## Engineering Focus
+## `~/focus`
 
 <div align="center">
 
@@ -377,7 +377,7 @@ Deploy it and learn from the real world.
 
 ---
 
-## Contribution Activity
+## `~/contribution`
 
 <div align="center">
 
