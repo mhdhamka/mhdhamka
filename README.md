@@ -375,29 +375,6 @@ Deploy it and learn from the real world.
 </table>
 
 </div>
----
-
-## Engineering Interests
-
-```text
-┌──────────────────────────────────────────────────────────┐
-│                    SOFTWARE ENGINEERING                   │
-├───────────────────────┬──────────────────────────────────┤
-│ AI / LLM Engineering  │ Backend Architecture             │
-│                       │                                  │
-│ • LLM Applications    │ • REST APIs                      │
-│ • RAG                 │ • Microservices                  │
-│ • AI Agents           │ • Authentication                 │
-│ • AI Copilots         │ • Data Architecture              │
-├───────────────────────┼──────────────────────────────────┤
-│ Cybersecurity         │ Infrastructure                   │
-│                       │                                  │
-│ • SOC                  │ • Docker                         │
-│ • SIEM                 │ • CI/CD                          │
-│ • Threat Detection     │ • Linux                          │
-│ • Threat Intelligence  │ • Cloud                          │
-└───────────────────────┴──────────────────────────────────┘
-```
 
 ---
 
