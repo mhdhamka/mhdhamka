@@ -315,15 +315,13 @@ Deploy it and learn from the real world.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=react-dark&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-stats.shion.dev/api?username=mhdhamka&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" width="49%" />
 
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=mhdhamka&theme=tokyonight&hide_border=true" width="49%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhdhamka/mhdhamka/gh-pages/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhdhamka/mhdhamka/gh-pages/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/gh-pages/github-contribution-grid-snake-dark.svg" width="90%">
-</picture>
+<br/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mhdhamka&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
 
 </div>
 
@@ -335,9 +333,13 @@ Deploy it and learn from the real world.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=react-dark&hide_border=true&area=true" width="100%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhdhamka/mhdhamka/gh-pages/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhdhamka/mhdhamka/gh-pages/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/mhdhamka/mhdhamka/gh-pages/github-contribution-grid-snake-dark.svg" width="90%">
+</picture>
 
 </div>
 
