@@ -331,9 +331,7 @@ Deploy it and learn from the real world.
 
 <div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhdhamka&show_icons=true&theme=react-dark&hide_border=true" width="100%" />
-</p>
+<img src="https://ghchart.rshah.org/06b6d4/mhdhamka" alt="mhdhamka's Github contributions" width="100%" />
 
 <br/><br/>
 
