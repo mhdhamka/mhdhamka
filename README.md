@@ -332,7 +332,7 @@ Deploy it and learn from the real world.
 <div align="center">
 
 <a href="https://github.com/mhdhamka">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mhdhamka&theme=react-dark&hide_border=true&hide_title=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mhdhamka&theme=tokyo-night&hide_border=true&hide_title=true" width="100%" />
 </a>
 
 <br/><br/>
